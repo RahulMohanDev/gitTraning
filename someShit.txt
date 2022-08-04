@@ -1,1 +1,6 @@
-test this is the begning of this journey
+What is the best way to become a great programmer?
+```js
+while(!dead) { 
+    code(); 
+}
+```
