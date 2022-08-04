@@ -1,5 +1,4 @@
 # gitTraning
-Git traning
 
+goto someShit.md
 
-git traning is gooing bad ?
