@@ -1,4 +1,4 @@
 # gitTraning
 
-goto someShit.txt
+goto someShit.md
 
