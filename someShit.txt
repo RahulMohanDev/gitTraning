@@ -7,4 +7,4 @@ neovim config (best out of the box experience) (stable) : https://github.com/Lun
 
 best browser start page (must try)(1500 line for index.html) : https://github.com/xvvvyz/tilde
 
-some change that will break later 21:46 (9:46 change)
+this is some conflicit
